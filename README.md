@@ -7,12 +7,12 @@ live : https://lomba-web-kemerdekaan.vercel.app/
 
 | Title                   |     | Description                                            |
 | ----------------------- | --- | ------------------------------------------------------ |
-| **Nama Discord dan Id** | :   | Ex. ridho_goks 532164856996954122                      |
-| **Author**              | :   | Ex. Ridho S.                                           |
+| **Nama Discord dan Id** | :   | ridho_goks 532164856996954122                          |
+| **Author**              | :   | Ridho S.                                               |
 | **Tema**                | :   | Perlawanan Perjajahan 1945                             |
 | **Category**            | :   | Desain Website                                         |
-| **Animasi Digunakan**   | :   | Ex. none                                               |
-| **Font Digunakan**      | :   | Ex. [Roboto](https://fonts.google.com/specimen/Roboto) |
-| **Referensi**           | :   | Ex. [none                                              |
+| **Animasi Digunakan**   | :   | none                                                   |
+| **Font Digunakan**      | :   | [Roboto](https://fonts.google.com/specimen/Roboto)     |
+| **Referensi**           | :   | none                                                   |
 
 \*Note: Nama Author harus di cantum di salah satu di file project, untuk mendapatkan userId discord bisa ke #main-cmd dan ketik `/userinfo <NamaDiscordAnda>`
