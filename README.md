@@ -9,7 +9,7 @@ live : https://lomba-web-kemerdekaan.vercel.app/
 | ----------------------- | --- | ------------------------------------------------------ |
 | **Nama Discord dan Id** | :   | ridho_goks 532164856996954122                          |
 | **Author**              | :   | Ridho S.                                               |
-| **Tema**                | :   | Perlawanan Perjajahan 1945                             |
+| **Tema**                | :   | Detik Detik Kemerdekaan                                |
 | **Category**            | :   | Desain Website                                         |
 | **Animasi Digunakan**   | :   | none                                                   |
 | **Font Digunakan**      | :   | [Roboto](https://fonts.google.com/specimen/Roboto)     |
