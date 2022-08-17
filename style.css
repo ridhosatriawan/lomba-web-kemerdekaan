@@ -1,0 +1,187 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+}
+
+.container {
+    height: auto;
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
+div.gate {
+    background-color : #B00506;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+div.gate .left {
+    width: 50%;
+}
+
+div.gate .left h1 {
+    font-weight: bolder;
+    font-size: 90px;
+    color: white;
+}
+
+div.second {
+    background-color: #CED4DA;
+    height: 100vh;
+    justify-content: space-evenly;
+}
+
+div.second .left {
+    font-size: 40px;
+    font-weight: bold;
+    width: 50%;
+}
+
+div.second .right img {
+    width: 400px;
+}
+
+div.third .left {
+    height: auto;
+    width: 50%;
+}
+div.third .left img {
+    width: 100%;
+}
+
+div.third .right {
+    width: 50%;
+    padding: 20px;
+}
+
+div.third .right h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+div.third .right p {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.fourth {
+    background-color:#CED4DA ;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.fourth .right {
+    width: 50%;
+}
+
+.fourth .left {
+    width: 50%;
+    text-align: right;
+    padding-right: 20px;
+}
+.fourth .right img {
+    width: 100%;
+}
+.fourth .left h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+.fourth .left p {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.fifth .left {
+    width: 50%;
+}
+.fifth .left img {
+    width: 100%;
+}
+
+.fifth .right {
+    padding-left: 20px;
+}
+.fifth .right h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+.fifth .right p {
+    font-size: 30px;
+    font-weight: bold;
+}
+.six {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #CED4DA;
+}
+.six .right {
+    width: 50%;
+}
+.six .right img {
+    width: 100%;
+}
+.six .left {
+    width: 50%;
+    text-align: right;
+    padding: 20px;
+}
+.six .left h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+.six .left p {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.last {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.last .left {
+    width: 50%;
+}
+
+.last .left img {
+    width: 100%;
+}
+
+.last .right {
+    width: 50%;
+    padding: 20px;
+}
+
+.last .right h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.last .right p {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.end {
+    background-color: #B00506;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    height: 50vh;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
